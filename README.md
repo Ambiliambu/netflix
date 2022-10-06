@@ -85,3 +85,8 @@ It is a way for two computer system to communicate using the HTTP technologies f
 * REST API as Backend
 * Collection of Movies
 * Categorized movies into trending, action and romance 
+
+##### Details
+
+A resource to get you know more about TMDB :<br/>
+>>  [online TMDB API documentaion](https://developers.themoviedb.org/3/movies/get-movie-images/ "Api documentation")
