@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+# NETFLIX - CLONE (TMDB- API)
+
+It is a clone application of netflix which is created by using TMDB Rest API.
+
+## Rest Api
+
+A Rest Api is an application programming interface that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
+It is a way for two computer system to communicate using the HTTP technologies found in web browsers and servers.
+
+### Features
+
+* It is a Netflix app clone
+* Fetch data from TMDB using HTTP
+* REST API as Backend
+* Collection of Movies
+* Categorized movies into trending, action and romance 
